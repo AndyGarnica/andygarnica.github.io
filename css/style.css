@@ -14,7 +14,7 @@
 
 /*seccion presentacion*/
 .presentacion{
-  margin-top: 40%;
+  margin-top: 40vh;
 }
 .presentacionTitulo{
   font-family: 'Clicker Script', sans-serif;
@@ -31,12 +31,12 @@
   margin-top: 10vh;
 }
 .espacioSM2{
-  margin-top: 15vh;
+  margin-top: 30vh;
 }
 
 /*contacto-footer*/
 .contacto{
-  min-height: 20vh;
+  min-height: 25vh;
 }
 
 /*seccion habilidades- skills*/
