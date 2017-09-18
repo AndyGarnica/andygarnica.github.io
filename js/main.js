@@ -1,16 +1,7 @@
-
 // seccion menu
 $( document ).ready(function() {
   $(".button-collapse").sideNav();
 });
-
-// efecto parallax
-function callParallax(){
-  $(".parallax").parallax();
-}
-window.load = callParallax();
-
-
 // seccion de skills
 jQuery(document).ready(function(){
   jQuery('.skillbar').each(function(){
@@ -19,7 +10,6 @@ jQuery(document).ready(function(){
     },6000);
   });
 });
-
 // seccion presentacion
 jQuery.fn.letterDrop = function() {
   var obj = this;

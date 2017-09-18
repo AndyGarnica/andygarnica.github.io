@@ -4,8 +4,6 @@
   padding: 0;
   font-family: 'Raleway', sans-serif;
 }
-
-
 .logo{
   font-family: 'Sacramento', sans-serif;
 }
@@ -17,11 +15,9 @@
 .colorA{
   color: #34495e;
 }
-
 .btn-flax{
   font-size: 4vh;
 }
-
 /*seccion presentacion*/
 .presentacion{
   margin-top: 15vh;
@@ -31,7 +27,6 @@
   font-size: 500%;
   color: #2c3e50;
 }
-
 .letterDrop {
   font-family: 'Clicker Script', sans-serif;
   position: relative;
@@ -40,7 +35,6 @@
   transform: rotateX(-90deg);
   animation: letterDrop 1.2s ease 1 normal forwards;
 }
-
 @keyframes letterDrop {
     10% {
         opacity: 0.5;
@@ -54,25 +48,20 @@
         transform: rotateX(360deg);
     }
 }
-
 span:nth-child(2n) {
   color: #34495e;
 }
-
 span:nth-child(-n+4) {
   color: #c0392b;
 }
-
 .subtituloPresentacion{
 -webkit-animation-duration: 1s;
 -webkit-animation-delay: 2.5s;
-/*-webkit-animation-iteration-count: infinite;*/
 }
 .fadeIn{
   -webkit-animation-duration: 1s;
   -webkit-animation-delay: 3.5s;
 }
-
 /*acerca de mi*/
 .sobreMi .habilidades{
   min-height: 100vh;
@@ -85,12 +74,10 @@ span:nth-child(-n+4) {
 .espacioSM2{
   margin-top: 30vh;
 }
-
 /*contacto-footer*/
 .contacto{
   min-height: 25vh;
 }
-
 /*seccion habilidades- skills*/
 .skillbar {
 	position:relative;
@@ -100,7 +87,6 @@ span:nth-child(-n+4) {
 	background: #ffffff;
 	height:5vh;
 	border-radius:3vh;
-
 }
 .skillbar-title {
 	position:absolute;
